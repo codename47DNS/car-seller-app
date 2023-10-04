@@ -1,0 +1,769 @@
+[
+    {
+        "brand": "audi",
+        "model": "grandsphere",
+        "year": 2016,
+        "rent": 300,
+        "img": "img/cars/audi-grandsphere-concept-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "audi",
+        "model": "prologue",
+        "year": 2017,
+        "rent": 400,
+        "img": "img/cars/audi-prologue.jpg",
+        "features": {
+            "seats": 4,
+            "average": 7.9,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "audi",
+        "model": "rs q",
+        "year": 2018,
+        "rent": 450,
+        "img": "img/cars/audi-rs-q.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "mercedes benz",
+        "model": "vision k",
+        "year": 2019,
+        "rent": 550,
+        "img": "img/cars/avatar-mercedes-benz-vision-k.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "baojun",
+        "model": "rm",
+        "year": 2021,
+        "rent": 250,
+        "img": "img/cars/baojun-rm-.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "continental",
+        "model": "gt",
+        "year": 2015,
+        "rent": 751,
+        "img": "img/cars/bentley-continental-gt.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bentley",
+        "model": "mulliner batur k",
+        "year": 2016,
+        "rent": 644,
+        "img": "img/cars/bentley-mulliner-batur-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "audi",
+        "model": "e tron gt quattro",
+        "year": 2012,
+        "rent": 575,
+        "img": "img/cars/blue-audi-e-tron-gt-quattro.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bmw",
+        "model": "ix m",
+        "year": 2010,
+        "rent": 674,
+        "img": "img/cars/bmw-ix-m.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bmw",
+        "model": "m competition",
+        "year": 2011,
+        "rent": 845,
+        "img": "img/cars/bmw-m-competition.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bmw",
+        "model": "mi k",
+        "year": 2020,
+        "rent": 457,
+        "img": "img/cars/bmw-mi-k.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bmw",
+        "model": "vision m next k",
+        "year": 2019,
+        "rent": 758,
+        "img": "img/cars/bmw-vision-m-next-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bmw",
+        "model": "x car",
+        "year": 2018,
+        "rent": 674,
+        "img": "img/cars/bmw-x-car.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bugatti",
+        "model": "chiron",
+        "year": 2015,
+        "rent": 767,
+        "img": "img/cars/bugatti-chiron-and-chiron-sport.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "czinger",
+        "model": "c",
+        "year": 2014,
+        "rent": 527,
+        "img": "img/cars/czinger-c.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "porsche",
+        "model": "macan gts",
+        "year": 2016,
+        "rent": 457,
+        "img": "img/cars/green-porsche-macan-gts.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "honda",
+        "model": "nsx",
+        "year": 2018,
+        "rent": 774,
+        "img": "img/cars/honda-nsx-hd.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "hyundai",
+        "model": "grandeur",
+        "year": 2012,
+        "rent": 557,
+        "img": "img/cars/hyundai-grandeur-hd.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "hyundai",
+        "model": "palisade k",
+        "year": 2011,
+        "rent": 784,
+        "img": "img/cars/hyundai-palisade-k.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "jaguar",
+        "model": "f type svr",
+        "year": 2016,
+        "rent": 567,
+        "img": "img/cars/k-tesla-model-y_x.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "tesla",
+        "model": "model y",
+        "year": 2017,
+        "rent": 457,
+        "img": "img/cars/k-tesla-model-y_x.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "lamborghini",
+        "model": "svj roadster xago",
+        "year": 2018,
+        "rent": 247,
+        "img": "img/cars/lamborghini-aventador-svj-roadster-xago.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "lamborghini",
+        "model": "aventador",
+        "year": 2021,
+        "rent": 784,
+        "img": "img/cars/lamborghini-aventador.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "lamborghini",
+        "model": "sian roadster",
+        "year": 2022,
+        "rent": 457,
+        "img": "img/cars/lamborghini-sian-roadster.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "mclaren",
+        "model": "gt k",
+        "year": 2020,
+        "rent": 254,
+        "img": "img/cars/mclaren-gt-k-.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "mclaren",
+        "model": "lt sport",
+        "year": 2014,
+        "rent": 385,
+        "img": "img/cars/mclaren-lt-sport.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "mclaren",
+        "model": "solus gt",
+        "year": 2019,
+        "rent": 285,
+        "img": "img/cars/mclaren-solus-gt-hd.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "porsche",
+        "model": "targa k",
+        "year": 2017,
+        "rent": 481,
+        "img": "img/cars/porsche--targa-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "porsche",
+        "model": "macan s",
+        "year": 2019,
+        "rent": 412,
+        "img": "img/cars/porsche-macan-s.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "porsche",
+        "model": "mission r",
+        "year": 2014,
+        "rent": 450,
+        "img": "img/cars/porsche-mission-r.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "renault",
+        "model": "kiger k suv",
+        "year": 2015,
+        "rent": 410,
+        "img": "img/cars/renault-kiger-k-suv.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "tesla",
+        "model": "red roadster",
+        "year": 2011,
+        "rent": 390,
+        "img": "img/cars/tesla-red-roadster.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "volkswagen",
+        "model": "taos",
+        "year": 2013,
+        "rent": 370,
+        "img": "img/cars/volkswagen-taos.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "Alfa Romeo",
+        "model": "grandsphere concept k",
+        "year": 2016,
+        "rent": 300,
+        "img": "img/cars/audi-grandsphere-concept-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "Ford",
+        "model": "prologue",
+        "year": 2017,
+        "rent": 400,
+        "img": "img/cars/audi-prologue.jpg",
+        "features": {
+            "seats": 4,
+            "average": 7.9,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "Toyota",
+        "model": "rs q",
+        "year": 2018,
+        "rent": 450,
+        "img": "img/cars/audi-rs-q.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bmw",
+        "model": "vision k",
+        "year": 2019,
+        "rent": 550,
+        "img": "img/cars/avatar-mercedes-benz-vision-k.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "lamborghini",
+        "model": "rm",
+        "year": 2021,
+        "rent": 250,
+        "img": "img/cars/baojun-rm-.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "hyundai",
+        "model": "gt",
+        "year": 2015,
+        "rent": 751,
+        "img": "img/cars/bentley-continental-gt.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "tesla",
+        "model": "mulliner batur k",
+        "year": 2016,
+        "rent": 644,
+        "img": "img/cars/bentley-mulliner-batur-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "ETron",
+        "model": "e tron gt quattro",
+        "year": 2012,
+        "rent": 575,
+        "img": "img/cars/blue-audi-e-tron-gt-quattro.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "tesla",
+        "model": "ix m",
+        "year": 2010,
+        "rent": 674,
+        "img": "img/cars/bmw-ix-m.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "audi",
+        "model": "m competition",
+        "year": 2011,
+        "rent": 845,
+        "img": "img/cars/bmw-m-competition.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "jaguar",
+        "model": "mi k",
+        "year": 2020,
+        "rent": 457,
+        "img": "img/cars/bmw-mi-k.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "Alfa Romeo",
+        "model": "vision m next k",
+        "year": 2019,
+        "rent": 758,
+        "img": "img/cars/bmw-vision-m-next-k.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "hyundai",
+        "model": "x car",
+        "year": 2018,
+        "rent": 674,
+        "img": "img/cars/bmw-x-car.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "czinger",
+        "model": "chiron",
+        "year": 2015,
+        "rent": 767,
+        "img": "img/cars/bugatti-chiron-and-chiron-sport.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "bugatti",
+        "model": "c",
+        "year": 2014,
+        "rent": 527,
+        "img": "img/cars/czinger-c.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.1,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "lamborghini",
+        "model": "macan gts",
+        "year": 2016,
+        "rent": 457,
+        "img": "img/cars/green-porsche-macan-gts.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "Alfa Romeo",
+        "model": "nsx",
+        "year": 2018,
+        "rent": 774,
+        "img": "img/cars/honda-nsx-hd.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "honda",
+        "model": "grandeur",
+        "year": 2012,
+        "rent": 557,
+        "img": "img/cars/hyundai-grandeur-hd.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "porsche",
+        "model": "palisade k",
+        "year": 2011,
+        "rent": 784,
+        "img": "img/cars/hyundai-palisade-k.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "tesla",
+        "model": "f type svr",
+        "year": 2016,
+        "rent": 567,
+        "img": "img/cars/k-tesla-model-y_x.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "jaguar",
+        "model": "model y",
+        "year": 2017,
+        "rent": 457,
+        "img": "img/cars/k-tesla-model-y_x.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "Ford",
+        "model": "svj roadster xago",
+        "year": 2018,
+        "rent": 247,
+        "img": "img/cars/lamborghini-aventador-svj-roadster-xago.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "porsche",
+        "model": "aventador",
+        "year": 2021,
+        "rent": 784,
+        "img": "img/cars/lamborghini-aventador.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "honda",
+        "model": "sian roadster",
+        "year": 2022,
+        "rent": 457,
+        "img": "img/cars/lamborghini-sian-roadster.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "hero",
+        "model": "gt k",
+        "year": 2020,
+        "rent": 254,
+        "img": "img/cars/mclaren-gt-k-.jpg",
+        "features": {
+            "seats": 2,
+            "average": 7.5,
+            "fuel": "hybrid",
+            "handling": "automatic"
+        }
+    },
+    {
+        "brand": "honda",
+        "model": "lt sport",
+        "year": 2014,
+        "rent": 385,
+        "img": "img/cars/mclaren-lt-sport.jpg",
+        "features": {
+            "seats": 4,
+            "average": 8.2,
+            "fuel": "gasoline",
+            "handling": "automatic"
+        }
+    }
+]

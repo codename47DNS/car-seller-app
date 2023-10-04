@@ -1,0 +1,31 @@
+.custom-card {
+    border: 1px solid #fff;
+    background-color: #f2f6fc;
+    box-shadow: 3px 3px 10px rgba(131, 131, 131, 0.2);
+    border-radius: 1.3em;
+}
+
+.year {
+    border: 2px dashed rgba(59, 151, 231, 0.562);
+    padding: 0.2em 1em;
+    border-radius: 2em;
+    font-weight: 500;
+}
+
+.favorite-btn {
+    border: none;
+    background-color: rgba(57, 150, 231, 0.2);
+    padding: 0.7em 0.7em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1em;
+}
+
+.rent-btn {
+    background-color: #3b97e7;
+    color: #fff;
+    font-weight: 500;
+    padding: 0.5em 1.4em;
+    border-radius: 1.2em;
+}

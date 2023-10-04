@@ -1,0 +1,27 @@
+.custom-select {
+    background-color: inherit;
+    width: fit-content;
+    border: none;
+    font-weight: 500;
+    color: #58657c;
+}
+
+.custom-search-box {
+    width: 20em;
+    overflow: hidden;
+    box-shadow: 0 0 1px rgba(53, 53, 53, 0.1);
+}
+
+.custom-search-box input {
+    border: none;
+    color: rgba(37, 37, 37, 0.5);
+    font-weight: 700;
+}
+
+.custom-search-box input::placeholder {
+    color: rgba(0, 0, 0, 0.35);
+}
+
+.custom-shadow {
+    box-shadow: 0 3px 10px rgba(53, 53, 53, 0.1);
+}
