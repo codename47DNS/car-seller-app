@@ -1,10 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Car Seller App
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i`
+Please use `npm i` before running the application so that all necessary files(node_modules) get installed.
 
 ### `npm start`
 
